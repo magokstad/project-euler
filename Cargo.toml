@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 primal = "0.3.2"
 fraction = "0.15.1"
+memoize = "0.4.2"
+lazy_static = "1.4.0"
